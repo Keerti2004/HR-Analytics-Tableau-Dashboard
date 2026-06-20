@@ -2,6 +2,10 @@
 
 Interactive HR Analytics Dashboard built using Tableau.
 
+## Project Overview
+
+This HR Analytics Dashboard was created in Tableau to analyze employee attrition, workforce demographics, job satisfaction, and departmental performance. The dashboard helps HR teams identify trends and make data-driven decisions.
+
 ## Dashboard Screenshot
 
 ![HR Analytics Dashboard](hr_analytics_dashboard.png)
@@ -23,3 +27,8 @@ Interactive HR Analytics Dashboard built using Tableau.
 ## Tools Used
 - Tableau
 - Excel
+
+## Files
+
+- HR Analytics Dashboard.tableau.twb – Tableau Workbook
+- hr_analytics_dashboard.png – Dashboard Screenshot
